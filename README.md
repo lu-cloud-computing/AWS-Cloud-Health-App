@@ -1,3 +1,7 @@
+### Cloud Platform used - Amazon Web Services
+
+### Cloud URL (Hosted on Amazon AWS EC2 Instance) [ClickHere](http://54.89.102.22:9000/#!/)
+
 ### Prerequisites
 - Node JS Version 6  
 - MongoDB
