@@ -59,9 +59,9 @@ OR
 ```
 $$ npm start
 ```
-#### Application will be running on port 8080
+#### Application will be running on port 8080 on local machine (Port can be changed in server.js)
 Open the browser
-Type the URL http://localhost:8080/
+Type the URL http://localhost:8080/ - To run locally
 
 
 ## Email Configuration
