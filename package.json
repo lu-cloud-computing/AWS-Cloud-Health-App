@@ -16,7 +16,7 @@
     "express": "^4.14.0",
     "express-jwt": "^5.1.0",
     "jsonwebtoken": "^7.2.1",
-    "mongoose": "^4.7.2",
+    "mongoose": "^4.13.21",
     "arraylist": "^0.1.0",
     "camaro": "2.2.2",
     "cheerio": "^1.0.0-rc.2",
